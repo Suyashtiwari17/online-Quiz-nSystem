@@ -13,6 +13,7 @@ import java.util.*;
             questions.put("WHO IS THE AUTHOR OF HELMET", "SHAKESPEARE");
             questions.put("WHICH IS THE LARGEST PLANET IN OUR SOLAR SYSTEM", "JUPITAR");
             questions.put("WHAT IS THE CHEMICAL SYMBOL OF WATER", "H2O");
+            questions.put("WHAT IS THE FULL FORM OF BRICS", "BRAZIL, RUSSIA, INDIA, CHINA, SOUTH AFRICA");
         }
 
         // MWTHOD TO START THE QUIZE
